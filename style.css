@@ -3,6 +3,11 @@
     min-height: 50px;
 }
 
+.square-big{
+    border: 2px dotted red;
+    min-height: 250px;
+}
+
 header{
     background-color: rgb(44,62,80);
     height: 80px;
