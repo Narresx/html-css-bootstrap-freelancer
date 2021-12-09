@@ -1,0 +1,9 @@
+header{
+    background-color: rgb(44,62,80);
+    height: 80px;
+}
+
+.col{
+    border: 3px dotted red;
+    max-height: 50px;
+}
