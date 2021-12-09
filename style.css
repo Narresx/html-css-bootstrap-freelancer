@@ -20,3 +20,11 @@ header{
 .bkg-color-green{
     background-color: rgb(26,188,156);
 }
+
+.pre-footer{
+    background-color: rgb(58,84,109);
+}
+
+footer{
+    background-color: rgb(44,62,80);
+}
