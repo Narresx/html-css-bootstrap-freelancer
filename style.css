@@ -3,7 +3,7 @@ header{
     height: 80px;
 }
 
-.col{
-    border: 3px dotted red;
-    max-height: 50px;
+.square{
+    border: 2px dotted red;
+    min-height: 50px;
 }
