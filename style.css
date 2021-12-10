@@ -8,7 +8,7 @@
     min-height: 250px;
 } */
 
-/* background colors */
+/* background colors & color */
 
 .bkg-color-blue{
     background-color: rgb(44,62,80);
@@ -16,6 +16,10 @@
 
 .bkg-color-green{
     background-color: rgb(26,188,156);
+}
+
+.color-green{
+    color: rgb(26,188,156);
 }
 
 /* Avatar */
@@ -34,11 +38,18 @@
   margin-bottom: 10px;
 }
 
+/* Pre-footer section */
+
+.footer-section svg{
+    width: 3.5em;
+    height: 1.5em;
+}
 .pre-footer{
     background-color: rgb(58,84,109);
 }
 
 footer{
+    height: 80px;
     background-color: rgb(44,62,80);
 }
 
