@@ -25,10 +25,33 @@
     margin: 0 auto;
 }
 
+/* Portfolio */
+
+#img-contain{
+  width: 100%;
+  border-radius: 15px;
+  margin-top: 10px;  
+  margin-bottom: 10px;
+}
+
 .pre-footer{
     background-color: rgb(58,84,109);
 }
 
 footer{
     background-color: rgb(44,62,80);
+}
+
+/* Spacing */
+
+.spacing-top-50{
+    margin-top: 50px;
+}
+
+.spacing-top-30{
+    margin-top: 30px;
+}
+
+.spacing-bottom-10{
+    margin-bottom: 10px;
 }
