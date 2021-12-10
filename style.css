@@ -8,6 +8,8 @@
     min-height: 250px;
 } */
 
+/* background colors */
+
 .bkg-color-blue{
     background-color: rgb(44,62,80);
 }
@@ -16,8 +18,11 @@
     background-color: rgb(26,188,156);
 }
 
-.jumbotron{
-    min-height: 300px;
+/* Avatar */
+
+#avatar{
+    width: 20rem;
+    margin: 0 auto;
 }
 
 .pre-footer{
