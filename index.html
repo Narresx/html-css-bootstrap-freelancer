@@ -140,23 +140,28 @@
             </div>
         </div>
         <!-- Contact-me section -->
-        <div class="row justify-content-center">
+        <div class="row justify-content-center" id="contact-me">
             <h2 class="square col-10 text-center">CONTACT ME</h2>
             <img class=" square col-10" src="" alt="">
-            <div class=" square col-10">Name
-                <hr>
-            </div>
-            <div class=" square col-10">Email Address
-                <hr>
-            </div>
-            <div class=" square col-10">Phone Number
-                <hr>
-            </div>
-            <div class=" square col-10">Message
-                <hr>
-            </div>
-            <!-- space -->
-            <div class=" square col-10">Send</div>
+            <form>
+                <div class="mb-3">
+                    <label for="name" class="form-label">Name</label>
+                    <input type="text" class="form-control" id="name" name="name">
+                </div>
+                <div class="mb-3">
+                    <label for="Email" class="form-label">Email Adress</label>
+                    <input type="text" class="form-control" id="email" name="email">
+                </div>
+                <div class="mb-3">
+                    <label for="PhoneNumber" class="form-label">Phone Number</label>
+                    <input type="text" class="form-control" id="phonenumber" name="phonenumber">
+                </div>
+                <div class="mb-3">
+                    <label for="Message" class="form-label">Message</label>
+                    <input type="text" class="form-control" id="Message" name="Message">
+                </div>
+                <button type="button" class="btn bkg-color-green text-white">Primary</button>
+            </form>
         </div>
         <!-- pre-footer section -->
         <div class="row justify-content-center text-center pre-footer">
