@@ -1,4 +1,4 @@
-.square{
+/* .square{
     border: 2px dotted red;
     min-height: 50px;
 }
@@ -6,19 +6,18 @@
 .square-big{
     border: 2px dotted red;
     min-height: 250px;
-}
+} */
 
-header{
+.bkg-color-blue{
     background-color: rgb(44,62,80);
-    height: 80px;
-}
-
-.jumbotron{
-    min-height: 300px;
 }
 
 .bkg-color-green{
     background-color: rgb(26,188,156);
+}
+
+.jumbotron{
+    min-height: 300px;
 }
 
 .pre-footer{
